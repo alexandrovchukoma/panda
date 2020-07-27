@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Animal Crossing</string>
+
+    <string name="privacy_url" translatable="false">https://infantilaprendizaj.wixsite.com/infantil</string>
+
+    <string name="more_game_url" translatable="false">https://play.google.com/store/apps/developer?id=dovzenko</string>
+    <string name="rate_game_url" translatable="false">https://play.google.com/store/apps/details?id=com.dovzenko.animalsjump</string>
+</resources>
